@@ -1,0 +1,6 @@
+<svg width="640" height="336" viewBox="0 0 640 336" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="640" height="336" fill="white"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Share Tech Mono" font-size="32" letter-spacing="0em"><tspan x="161" y="118.288">$ code frame/app.py</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Share Tech Mono" font-size="32" letter-spacing="0em"><tspan x="161" y="178.288">$ vercel dev</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Share Tech Mono" font-size="32" letter-spacing="0em"><tspan x="161" y="238.288">$ vercel deploy</tspan></text>
+</svg>

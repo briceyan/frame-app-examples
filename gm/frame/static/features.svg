@@ -1,0 +1,24 @@
+<svg width="640" height="336" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    div {
+    font: 18px serif;
+    height: 100%;
+    overflow: auto;
+    padding: 8px;
+    
+    }
+  </style>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <h1 xmlns="http://www.w3.org/1999/xhtml">hello world</h1>
+      <h2 xmlns="http://www.w3.org/1999/xhtml">hello world</h2>
+      <img xmlns="http://www.w3.org/1999/xhtml"
+        src="https://b45783f76e96.ngrok.app/static/home.png" width="100" height="100" />
+      <p xmlns="http://www.w3.org/1999/xhtml">If the writing mode is vertically oriented, the
+        value of inline-size relates to the height
+        of the element; otherwise, it relates to the width of the element. A related
+        property is
+        block-size, which defines the other dimension of the element.</p>
+    </div>
+  </foreignObject>
+</svg>
