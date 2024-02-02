@@ -1,0 +1,24 @@
+<svg width="640" height="336" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <h1>User Reactions</h1>
+      <p>User reactions can be easily retrieved at runtime</p>
+      <table border="1" width="100%" xmlns="http://www.w3.org/1999/xhtml">
+
+        <tr width="20%" xmlns="http://www.w3.org/1999/xhtml">
+          <td>number of likes</td>
+          <td>{{num_likes}}</td>
+        </tr>
+        <tr width="80%" xmlns="http://www.w3.org/1999/xhtml">
+          <td>num of recasts</td>
+          <td>{{num_recasts}}</td>
+        </tr>
+        <tr>
+          <td>num of replies</td>
+          <td>{{num_replies}}</td>
+        </tr>
+      </table>
+      <p><strong>Recast</strong>, <strong>like</strong> or <strong>reply</strong> to see number changes</p>
+    </body>
+  </foreignObject>
+</svg>
